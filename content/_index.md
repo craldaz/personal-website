@@ -23,7 +23,7 @@ Computational Chemist <br>
 - [🔗Graph Theoretical Chemistry🔗](https://mtzgroup.github.io/retropath-web/)
     - [▶️ Check out our work here ▶️](https://youtu.be/L-8zXFInrOc)
 - NMR Transformers 
-- Photochemistry
+- Photocycloaddition of Tethered Arene Alkenes
 
 ## [Interests](notes/Interests.md)
 - Computers
@@ -32,6 +32,11 @@ Computational Chemist <br>
 - Machine Learning
 
 
-
-
+## Published Research
+- Elisa Pieri, Dean Lahana, Alexander M. Chang, Cody R. Aldaz, Keiran Thompson, and Todd Martinez, The non-adiabatic nanoreactor: towards the automated discovery of photochemistry, Chemical Science 2021
+- Cody Aldaz, Ted Wiley, Nicholas A. Miller, Kenneth G. Spears, Nawodi Abeyrathna, Yi Liao, Paul Zimmerman, Roseanne Sension, Experimental and theoretical characterization of ultrafast water-soluble photochromic photoacids The Journal of Physical Chemistry B 2021, 125, 16, 4120–4131
+- Cody Aldaz, Todd Martinez, Paul Zimmerman, The Mechanics of Bicycle Pedal Photoisomerization in Crystalline Cis,Cis-1,4-diphenyl-1,3-butadiene, The Journal Of Physical Chemistry A, 2020, 124, 8897−8906
+- Cody Aldaz, Ted Wiley, Nicholas A. Miller, Kenneth G. Spears, Nawodi Abeyrathna, Yi Liao, Paul Zimmerman, Roseanne Sension, Experimental and theoretical characterization of ultrafast water-soluble photochromic photoacids The Journal of Physical Chemistry B 2021, 125, 16, 4120–4131
+- Cody Aldaz, Josh Kammeraad, Paul Zimmerman. Discovery of conical intersection mediated photochemistry with growing string methods. Physical Chemistry Chemical Physics, 20, 27394-27405, 2018
+- Jian Gao, Alan K. Thomas, Jianzhong Yang, Cody Aldaz, Guoshun Yang, Yang Qin, John K. Grey Polythienylene-vinylene Structure-Function Correlations Revealed from Resonance Raman Spectroscopy and Photocurrent Imaging. The Journal of Physical Chemistry C., vol. 119, 8980, 2015
 
