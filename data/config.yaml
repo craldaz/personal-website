@@ -1,6 +1,6 @@
-name: Jacky Zhao
-enableToc: true
-openToc: false
+name: Cody Aldaz
+enableToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -11,16 +11,15 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/craldaz
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  "My website"
 page_title:
-  "🪴 Quartz 3.3"
+  "🪴 Cody Aldaz"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/codyaldaz
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/craldaz

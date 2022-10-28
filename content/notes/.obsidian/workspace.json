@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "6f69b3d45351a726",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f0fd994c2b6d147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e5688459ec619ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14d63d97d6c66e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photochemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13328cf94b3a47fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mentorship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a74dd37520d21250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photochemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd92d9d543840ed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39c21f43fc78b5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMD Threadripper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c082dc594dc42cbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cae583978caa091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826e283ced86b37a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "890811fca28289fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84b1b65c88d12d46",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a6bee0ac88e287d",
+    "type": "split",
+    "children": [
+      {
+        "id": "11cc009d726c63fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e05458782d5f9234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AMD Threadripper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2f070e5f4bd7ef4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AMD Threadripper.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ceba070ae9204c98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c2e70bc5c303133",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AMD Threadripper.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "39c21f43fc78b5fc",
+  "lastOpenFiles": [
+    "Computers.md",
+    "AMD Threadripper.md",
+    "Machine-Learning.md",
+    "Photochemistry.md",
+    "Machine Learning.md",
+    "Mentorship.md",
+    "random/Breadth First Search.md"
+  ]
+}

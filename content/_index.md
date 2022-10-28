@@ -1,27 +1,37 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 Cody Aldaz
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+## Education
+Computational Chemist <br>
+- Stanford Science Fellow (postdoc) in Martinez Lab (2020-Present) <br>
+- Stanford Artificial Intelligence Professional Certificate
+- PhD in Chemistry from University of Michigan in Zimmerman Lab (2015-2020) <br>
+- B.S. in Chemistry from the University of New Mexico <br>
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+![me](codyaldaz.png)
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## Recent News
+- Invited Seminar at IBM Zurich on Graph Theoretical Methods to Predict Molecular Reactions and Mechanisms <br>
+- Invited talk for Synthesis Supergroup at Stanford -> [Slides]() <br>
+- Invited talk at World Association of Theoretical Chemistry (WATOC2020) <br>
+- Attended [RL Summer School](https://rlsummerschool.com) at Vrjie University in Amsterdam 
+- [Featured in Los Altos Town Crier for Mentorship](https://www.losaltosonline.com/schools/science-learning-institute-offers-internships-with-pathway-to-stem/article_8056c754-b564-11ec-ad82-4b544bbeb2ef.html)
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+## Current Projects
+- [🔗Graph Theoretical Chemistry🔗](https://mtzgroup.github.io/retropath-web/)
+    - [▶️ Check out our work here ▶️](https://youtu.be/L-8zXFInrOc)
+- NMR Transformers 
+- Photochemistry
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+## [Interests](notes/Interests.md)
+- Computers
+- Mentorship
+- Motorcycling
+- Machine Learning
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+
+
 
