@@ -16,7 +16,9 @@ Specs:
 	- 11 TB RAID 1 hard drive 
 - GPU 
 	- - Three 3080-TI hybrids (EVGA)
-
+- Motherboard
+	- ASRock TRX40TAICHI Ryzen Threadripper CPU Motherboard
+	- three x16 PCIE 4.0 slots 😁
 
 🔥 Primary Uses 🔥:
 - GPU Accelerated Quantum Mechanics
