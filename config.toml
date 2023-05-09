@@ -1,4 +1,4 @@
-baseURL = "www.codyaldaz.com/"
+baseURL = "https://www.codyaldaz.com/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
