@@ -3,14 +3,24 @@ title: 🪴 Cody Aldaz
 enableToc: false
 ---
 
+
+![me](codyaldaz.png)
+
+## About Me
+A driven and passionate scientist with a strong foundation in chemistry, data science, algorithms, and machine learning. I excel at employing creative solutions to complex problems while maintaining a focus on both team and individual success. My objective is to bridge the gap between chemistry and computer science to solve real world problems. <br>
+
+Interests:
+- [Computers](notes/Computers.md)
+- [Mentorship](notes/Mentorship.md)
+- [Motorcycling](notes/Motorcycling.md)
+- [Machine-Learning](notes/Machine-Learning.md)
+
 ## Education
 Computational Chemist <br>
 - Stanford Science Fellow (postdoc) in Martinez Lab (2020-Present) <br>
 - Stanford Artificial Intelligence Professional Certificate
 - PhD in Chemistry from University of Michigan in Zimmerman Lab (2015-2020) <br>
 - B.S. in Chemistry from the University of New Mexico <br>
-
-![me](codyaldaz.png)
 
 ## Recent News
 - Invited Seminar at IBM Zurich on Graph Theoretical Methods to Predict Molecular Reactions and Mechanisms <br>
@@ -20,17 +30,10 @@ Computational Chemist <br>
 - [Featured in Los Altos Town Crier for Mentorship](https://www.losaltosonline.com/schools/science-learning-institute-offers-internships-with-pathway-to-stem/article_8056c754-b564-11ec-ad82-4b544bbeb2ef.html)
 
 ## Current Projects
-- [🔗Graph Theoretical Chemistry🔗](https://mtzgroup.github.io/retropath-web/)
-    - [▶️ Check out our work here ▶️](https://youtu.be/L-8zXFInrOc)
+- [🔗Reaction Template Studio🔗](https://mtzgroup.github.io/retropaths/)
+    - [▶️ Video ▶️](https://youtu.be/L-8zXFInrOc)
 - NMR Transformers 
 - Photocycloaddition of Tethered Arene Alkenes
-
-## About Me
-- [Computers](notes/Computers.md)
-- [Mentorship](notes/Mentorship.md)
-- [Motorcycling](notes/Motorcycling.md)
-- [Machine-Learning](notes/Machine-Learning.md)
-
 
 ## Published Research
 - Elisa Pieri, Dean Lahana, Alexander M. Chang, Cody R. Aldaz, Keiran Thompson, and Todd Martinez, The non-adiabatic nanoreactor: towards the automated discovery of photochemistry, Chemical Science 2021
