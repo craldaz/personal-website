@@ -3,6 +3,7 @@ title: Computers
 ---
 I enjoy collecting and building computers
 
+[Home](_index.md)
 
 Complete Computers:
 - [AMD Threadripper](notes/AMD%20Threadripper.md)

@@ -25,11 +25,11 @@ Computational Chemist <br>
 - NMR Transformers 
 - Photocycloaddition of Tethered Arene Alkenes
 
-## [Interests](notes/Interests.md)
-- Computers
-- Mentorship
-- Motorcycling
-- Machine Learning
+## About Me
+- [Computers](notes/Computers.md)
+- [Mentorship](notes/Mentorship.md)
+- [Motorcycling](notes/Motorcycling.md)
+- [Machine-Learning](notes/Machine-Learning.md)
 
 
 ## Published Research
